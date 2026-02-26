@@ -2,7 +2,7 @@
 
 Este es un proyecto backend desarrollado con **Java 21** y **Spring Boot** para la gestión de estudiantes. Incluye una API RESTful que permite crear, leer, actualizar y eliminar (CRUD) registros de estudiantes, persistiendo los datos en una base de datos **PostgreSQL**.
 
-# Esudiante 
+# Estudiante 
 Estiben Arley Manco Suarez
 CC 1035521456
 
